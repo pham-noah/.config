@@ -1,0 +1,52 @@
+15:03:14 GMT+0000 (Coordinated Universal Time) [INFO]: spawning binary with command: /home/noahthebonner/.config/VSCodium/User/globalStorage/tabnine.tabnine-vscode/binaries/4.257.0/x86_64-unknown-linux-musl/TabNine args: --tls_config insecure=false --no-lsp=true --client=vscode --client-metadata clientVersion=1.98.2 pluginVersion=3.251.0 t9-vscode-AutoImportEnabled=true t9-vscode-TSAutoImportEnabled=true t9-vscode-JSAutoImportEnabled=true vscode-telemetry-enabled=true vscode-remote=false vscode-extension-kind=1 vscode-theme-name=Default Dark Modern vscode-theme-kind=Dark vscode-machine-id=someValue.machineId vscode-is-new-app-install=false vscode-session-id=someValue.sessionId vscode-language=en vscode-app-name=VSCodium vscode-beta-channel-enabled=false vscode-status-customization=unknown vscode-inline-api-enabled=true vscode-code-lens-enabled=true vscode-completions-loading-indicator-enabled=true vscode-found-intellicode=false ide-restart-counter=0 
+
+15:03:14 GMT+0000 (Coordinated Universal Time) [DEBUG]: capabilities resolved immediately 
+
+15:03:15 GMT+0000 (Coordinated Universal Time) [ERROR]: failed to handle event. command: get_user, error: "state has no access token" 
+
+15:03:17 GMT+0000 (Coordinated Universal Time) [DEBUG]: Updating root paths for project NordCloud_Hackathon: ["/home/noahthebonner/projects/NordCloud_Hackathon"] 
+
+15:03:23 GMT+0000 (Coordinated Universal Time) [ERROR]: failed to handle event. command: get_user, error: "state has no access token" 
+
+15:03:47 GMT+0000 (Coordinated Universal Time) [DEBUG]: Updating root paths for project NordCloud_Hackathon: ["/home/noahthebonner/projects/NordCloud_Hackathon"] 
+
+15:04:17 GMT+0000 (Coordinated Universal Time) [DEBUG]: Updating root paths for project NordCloud_Hackathon: ["/home/noahthebonner/projects/NordCloud_Hackathon"] 
+
+15:04:47 GMT+0000 (Coordinated Universal Time) [DEBUG]: Updating root paths for project NordCloud_Hackathon: ["/home/noahthebonner/projects/NordCloud_Hackathon"] 
+
+15:05:17 GMT+0000 (Coordinated Universal Time) [DEBUG]: Updating root paths for project NordCloud_Hackathon: ["/home/noahthebonner/projects/NordCloud_Hackathon"] 
+
+15:05:47 GMT+0000 (Coordinated Universal Time) [DEBUG]: Updating root paths for project NordCloud_Hackathon: ["/home/noahthebonner/projects/NordCloud_Hackathon"] 
+
+15:06:17 GMT+0000 (Coordinated Universal Time) [DEBUG]: Updating root paths for project NordCloud_Hackathon: ["/home/noahthebonner/projects/NordCloud_Hackathon"] 
+
+15:06:47 GMT+0000 (Coordinated Universal Time) [DEBUG]: Updating root paths for project NordCloud_Hackathon: ["/home/noahthebonner/projects/NordCloud_Hackathon"] 
+
+15:07:17 GMT+0000 (Coordinated Universal Time) [DEBUG]: Updating root paths for project NordCloud_Hackathon: ["/home/noahthebonner/projects/NordCloud_Hackathon"] 
+
+15:07:47 GMT+0000 (Coordinated Universal Time) [DEBUG]: Updating root paths for project NordCloud_Hackathon: ["/home/noahthebonner/projects/NordCloud_Hackathon"] 
+
+15:08:17 GMT+0000 (Coordinated Universal Time) [DEBUG]: Updating root paths for project NordCloud_Hackathon: ["/home/noahthebonner/projects/NordCloud_Hackathon"] 
+
+15:08:47 GMT+0000 (Coordinated Universal Time) [DEBUG]: Updating root paths for project NordCloud_Hackathon: ["/home/noahthebonner/projects/NordCloud_Hackathon"] 
+
+15:09:17 GMT+0000 (Coordinated Universal Time) [DEBUG]: Updating root paths for project NordCloud_Hackathon: ["/home/noahthebonner/projects/NordCloud_Hackathon"] 
+
+15:09:47 GMT+0000 (Coordinated Universal Time) [DEBUG]: Updating root paths for project NordCloud_Hackathon: ["/home/noahthebonner/projects/NordCloud_Hackathon"] 
+
+15:10:17 GMT+0000 (Coordinated Universal Time) [DEBUG]: Updating root paths for project NordCloud_Hackathon: ["/home/noahthebonner/projects/NordCloud_Hackathon"] 
+
+15:10:47 GMT+0000 (Coordinated Universal Time) [DEBUG]: Updating root paths for project NordCloud_Hackathon: ["/home/noahthebonner/projects/NordCloud_Hackathon"] 
+
+15:11:17 GMT+0000 (Coordinated Universal Time) [DEBUG]: Updating root paths for project NordCloud_Hackathon: ["/home/noahthebonner/projects/NordCloud_Hackathon"] 
+
+15:11:47 GMT+0000 (Coordinated Universal Time) [DEBUG]: Updating root paths for project NordCloud_Hackathon: ["/home/noahthebonner/projects/NordCloud_Hackathon"] 
+
+15:12:17 GMT+0000 (Coordinated Universal Time) [DEBUG]: Updating root paths for project NordCloud_Hackathon: ["/home/noahthebonner/projects/NordCloud_Hackathon"] 
+
+15:12:47 GMT+0000 (Coordinated Universal Time) [DEBUG]: Updating root paths for project NordCloud_Hackathon: ["/home/noahthebonner/projects/NordCloud_Hackathon"] 
+
+15:13:17 GMT+0000 (Coordinated Universal Time) [DEBUG]: Updating root paths for project NordCloud_Hackathon: ["/home/noahthebonner/projects/NordCloud_Hackathon"] 
+
+15:13:47 GMT+0000 (Coordinated Universal Time) [DEBUG]: Updating root paths for project NordCloud_Hackathon: ["/home/noahthebonner/projects/NordCloud_Hackathon"] 
+

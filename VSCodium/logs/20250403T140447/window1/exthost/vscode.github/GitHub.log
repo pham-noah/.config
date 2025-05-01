@@ -1,0 +1,4 @@
+2025-04-03 14:04:48.901 [info] Log level: Info
+2025-04-03 14:06:20.036 [info] Log level: Info
+2025-04-03 14:06:22.158 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2025-04-03 14:11:08.555 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for Anujrathee7/NordCloud_Hackathon: Error: No GitHub authentication session available.

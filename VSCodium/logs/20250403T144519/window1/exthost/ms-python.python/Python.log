@@ -1,0 +1,10 @@
+2025-04-03 14:45:21.787 [info] Telemetry level is off
+2025-04-03 14:45:21.787 [info] Experiments are disabled, only manually opted experiments are active.
+2025-04-03 14:45:21.787 [warning] Dir "/home/noahthebonner/projects/NordCloud_Hackathon/.pixi/envs" is not watchable (directory does not exist)
+2025-04-03 14:45:21.820 [info] Python interpreter path: /bin/python
+2025-04-03 14:45:21.836 [info] > pyenv which python
+2025-04-03 14:45:21.836 [info] cwd: .
+2025-04-03 14:45:22.543 [info] Starting Jedi language server for NordCloud_Hackathon.
+2025-04-03 14:47:36.795 [info] Discover tests for workspace name: NordCloud_Hackathon - uri: /home/noahthebonner/projects/NordCloud_Hackathon
+2025-04-03 15:00:26.967 [info] > conda info --json
+2025-04-03 15:03:11.262 [info] Discover tests for workspace name: undefined - uri: /home/noahthebonner/.config/VSCodium/User/settings.json

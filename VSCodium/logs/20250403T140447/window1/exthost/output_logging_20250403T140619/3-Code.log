@@ -1,0 +1,16 @@
+[Running] python -u "/home/noahthebonner/projects/NordCloud_Hackathon/manager.py"
+Traceback (most recent call last):
+  File "/home/noahthebonner/projects/NordCloud_Hackathon/manager.py", line 1, in <module>
+    from flask import Flask, request, render_template, jsonify
+ModuleNotFoundError: No module named 'flask'
+
+[Done] exited with code=1 in 0.029 seconds
+
+[Running] python -u "/home/noahthebonner/projects/NordCloud_Hackathon/manager.py"
+Traceback (most recent call last):
+  File "/home/noahthebonner/projects/NordCloud_Hackathon/manager.py", line 1, in <module>
+    from flask import Flask, request, render_template, jsonify
+ModuleNotFoundError: No module named 'flask'
+
+[Done] exited with code=1 in 0.03 seconds
+

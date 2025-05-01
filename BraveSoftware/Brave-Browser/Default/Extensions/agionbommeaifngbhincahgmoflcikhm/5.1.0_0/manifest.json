@@ -1,0 +1,30 @@
+{
+   "action": {
+      "default_icon": "imageye128.png"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "commands": {
+      "_execute_action": {
+         "suggested_key": {
+            "default": "Ctrl+Shift+Y",
+            "mac": "Command+Shift+Y"
+         }
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "differential_fingerprint": "1.982e4b9c384e74bea7247effd3e0161f03407c4391024ecfd242763ea1c9d9d9",
+   "host_permissions": [ "http://*/*", "https://*/*", "\u003Call_urls>" ],
+   "icons": {
+      "128": "imageye128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlMqm90boU58vLM+FtiiDHH9SIeFKF8sMGHmFJqOjxOxlkyHMc3EctHRx6IKXurpDOu6XqohKOmee8n11M3O+nk7mHqARuTA1o2T14H14hsI0wtVquyPA8985c54OGJXEKMOHxi6nsN3gIx0d+raLyNNTwLs+FOh1qmw99En+oPkhXpOjhavfuFwCH1IE/jP9O0WRKqgmmVoNdokpk8TEPF5X0ZRdhiobePjOfm0A5myNfSkyauNB3d0wmlgpTY/yq6GbIUD8CkeC3yu28mf2R/WUD/+aRKxV1dudZ4u+iz0RtbSlS+AmgkIIUVV4eOuqdsnafa6sVEtJrCXah/f9gQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_appName__",
+   "permissions": [ "activeTab", "downloads", "storage", "webRequest", "scripting", "declarativeNetRequest", "sidePanel" ],
+   "short_name": "Imageye",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "5.1.0"
+}

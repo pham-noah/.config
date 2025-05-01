@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "campaigns": [
+    {
+      "campaignId": "e556a7d1-cd3e-43ab-a8df-edfe55a467fd",
+      "logo": {
+        "imageUrl": "2bc28772-6c58-4652-9115-dc07fb98f2d0.png",
+        "destinationUrl": "https://brave.com/podcast/e69/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-technologist&mtm_content=podcast",
+        "alt": "The Brave Technologist Podcast: Episode 69 - Gamifying Sleep: How Sleepagotchi Leverages Web3 to Incentivize Health Habits",
+        "companyName": "The Brave Technologist"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "fab1acaf-deb7-4318-ba16-493a835a3477.jpg",
+          "creativeInstanceId": "200030e5-9fc0-4eb9-9d71-24a6f518ef81",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        }
+      ]
+    }
+  ],
+  "campaigns2": [
+    {
+      "campaignId": "e556a7d1-cd3e-43ab-a8df-edfe55a467fd",
+      "logo": {
+        "imageUrl": "2bc28772-6c58-4652-9115-dc07fb98f2d0.png",
+        "destinationUrl": "https://brave.com/podcast/e69/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-technologist&mtm_content=podcast",
+        "alt": "The Brave Technologist Podcast: Episode 69 - Gamifying Sleep: How Sleepagotchi Leverages Web3 to Incentivize Health Habits",
+        "companyName": "The Brave Technologist"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "fab1acaf-deb7-4318-ba16-493a835a3477.jpg",
+          "creativeInstanceId": "200030e5-9fc0-4eb9-9d71-24a6f518ef81",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        }
+      ]
+    }
+  ]
+}

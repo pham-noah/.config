@@ -1,0 +1,127 @@
+2025-04-03 14:05:25.789 [info] Telemetry level is off
+2025-04-03 14:05:25.789 [info] Experiments are disabled, only manually opted experiments are active.
+2025-04-03 14:05:25.807 [info] > python -c "import sys;print(sys.executable)"
+2025-04-03 14:05:25.832 [info] > /usr/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/interpreterInfo.py
+2025-04-03 14:05:25.860 [info] Only Pylance is supported in untrusted workspaces, setting language server to None.
+2025-04-03 14:05:25.860 [info] Starting Jedi language server for default.
+2025-04-03 14:05:57.313 [info] Running installed packages checker:  {
+  id: '/usr/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '/usr',
+  path: '/usr/bin/python',
+  architecture: 3,
+  sysVersion: '3.13.2 (main, Feb  5 2025, 08:05:21) [GCC 14.2.1 20250128]',
+  version: {
+    raw: '3.13.2',
+    major: 3,
+    minor: 13,
+    patch: 2,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.13.2 64-bit',
+  detailedDisplayName: 'Python 3.13.2 64-bit',
+  type: undefined
+} /home/noahthebonner/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/installed_check.py /home/noahthebonner/projects/NordCloud_Hackathon/requirements.txt
+2025-04-03 14:05:57.313 [info] > /usr/bin/python ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/installed_check.py ~/projects/NordCloud_Hackathon/requirements.txt
+2025-04-03 14:06:20.035 [info] Telemetry level is off
+2025-04-03 14:06:20.035 [info] Experiments are disabled, only manually opted experiments are active.
+2025-04-03 14:06:20.035 [warning] Dir "/home/noahthebonner/projects/NordCloud_Hackathon/.pixi/envs" is not watchable (directory does not exist)
+2025-04-03 14:06:20.072 [info] > pyenv which python
+2025-04-03 14:06:20.072 [info] cwd: .
+2025-04-03 14:06:20.101 [info] > python -c "import sys;print(sys.executable)"
+2025-04-03 14:06:20.121 [info] > /usr/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/interpreterInfo.py
+2025-04-03 14:06:20.145 [info] Only Pylance is supported in untrusted workspaces, setting language server to None.
+2025-04-03 14:06:20.145 [info] Starting Jedi language server for NordCloud_Hackathon.
+2025-04-03 14:06:21.794 [info] Telemetry level is off
+2025-04-03 14:06:21.794 [info] Experiments are disabled, only manually opted experiments are active.
+2025-04-03 14:06:21.794 [warning] Dir "/home/noahthebonner/projects/NordCloud_Hackathon/.pixi/envs" is not watchable (directory does not exist)
+2025-04-03 14:06:21.843 [info] Starting Environment refresh
+2025-04-03 14:06:21.843 [info] Searching for interpreters in posix paths locator
+2025-04-03 14:06:21.844 [info] Searching for pyenv environments
+2025-04-03 14:06:21.844 [info] Searching for conda environments
+2025-04-03 14:06:21.844 [info] Searching for global virtual environments
+2025-04-03 14:06:21.844 [info] Searching for custom virtual environments
+2025-04-03 14:06:21.847 [info] pyenv is not installed
+2025-04-03 14:06:21.847 [info] Finished searching for pyenv environments: 4 milliseconds
+2025-04-03 14:06:21.847 [info] Finished searching for custom virtual envs: 4 milliseconds
+2025-04-03 14:06:21.852 [info] > conda info --json
+2025-04-03 14:06:21.858 [info] > hatch env show --json
+2025-04-03 14:06:21.858 [info] cwd: .
+2025-04-03 14:06:21.929 [info] > pyenv which python
+2025-04-03 14:06:21.929 [info] cwd: .
+2025-04-03 14:06:21.929 [info] Finished searching for global virtual envs: 86 milliseconds
+2025-04-03 14:06:21.970 [info] Found: /bin/python --> /bin/python3.13
+2025-04-03 14:06:21.979 [info] Found: /bin/python3 --> /bin/python3.13
+2025-04-03 14:06:21.980 [info] Found: /bin/python3.13 --> /bin/python3.13
+2025-04-03 14:06:22.047 [info] Found: /sbin/python --> /sbin/python3.13
+2025-04-03 14:06:22.058 [info] Found: /sbin/python3 --> /sbin/python3.13
+2025-04-03 14:06:22.075 [info] Found: /sbin/python3.13 --> /sbin/python3.13
+2025-04-03 14:06:22.144 [info] Found: /usr/bin/python --> /usr/bin/python3.13
+2025-04-03 14:06:22.158 [info] Found: /usr/bin/python3 --> /usr/bin/python3.13
+2025-04-03 14:06:22.165 [info] Found: /usr/bin/python3.13 --> /usr/bin/python3.13
+2025-04-03 14:06:22.223 [info] Found: /usr/sbin/python --> /usr/sbin/python3.13
+2025-04-03 14:06:22.223 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.13
+2025-04-03 14:06:22.223 [info] Found: /usr/sbin/python3.13 --> /usr/sbin/python3.13
+2025-04-03 14:06:22.230 [info] > /bin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/interpreterInfo.py
+2025-04-03 14:06:22.236 [info] > /sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/interpreterInfo.py
+2025-04-03 14:06:22.241 [info] Finished searching for interpreters in posix paths locator: 399 milliseconds
+2025-04-03 14:06:22.244 [info] Environments refresh paths discovered (event): 402 milliseconds
+2025-04-03 14:06:22.244 [info] Environments refresh paths discovered: 402 milliseconds
+2025-04-03 14:06:22.264 [info] > /usr/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/interpreterInfo.py
+2025-04-03 14:06:22.269 [info] > /usr/sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/interpreterInfo.py
+2025-04-03 14:06:22.297 [info] Environments refresh finished (event): 455 milliseconds
+2025-04-03 14:06:22.300 [info] Environment refresh took 458 milliseconds
+2025-04-03 14:06:22.302 [info] Python interpreter path: /bin/python
+2025-04-03 14:06:23.127 [info] Starting Jedi language server for NordCloud_Hackathon.
+2025-04-03 14:06:26.778 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.13.2 (main, Feb  5 2025, 08:05:21) [GCC 14.2.1 20250128]',
+  version: {
+    raw: '3.13.2',
+    major: 3,
+    minor: 13,
+    patch: 2,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.13.2 64-bit',
+  detailedDisplayName: 'Python 3.13.2 64-bit',
+  type: undefined
+} /home/noahthebonner/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/installed_check.py /home/noahthebonner/projects/NordCloud_Hackathon/requirements.txt
+2025-04-03 14:06:26.778 [info] > /bin/python ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/installed_check.py ./requirements.txt
+2025-04-03 14:06:47.038 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.13.2 (main, Feb  5 2025, 08:05:21) [GCC 14.2.1 20250128]',
+  version: {
+    raw: '3.13.2',
+    major: 3,
+    minor: 13,
+    patch: 2,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.13.2 64-bit',
+  detailedDisplayName: 'Python 3.13.2 64-bit',
+  type: undefined
+} /home/noahthebonner/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/installed_check.py /home/noahthebonner/projects/NordCloud_Hackathon/requirements.txt
+2025-04-03 14:06:47.038 [info] > /bin/python ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/installed_check.py ./requirements.txt
+2025-04-03 14:06:49.926 [info] Discover tests for workspace name: NordCloud_Hackathon - uri: /home/noahthebonner/projects/NordCloud_Hackathon/manager.py
+2025-04-03 14:08:13.197 [info] > /bin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/interpreterInfo.py
+2025-04-03 14:08:14.318 [info] > ./venv/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.2.0-universal/python_files/interpreterInfo.py
+2025-04-03 14:08:14.318 [info] Environments refresh paths discovered: 7 milliseconds
+2025-04-03 14:08:14.342 [info] Environments refresh finished (event): 31 milliseconds

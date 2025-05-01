@@ -1,0 +1,6 @@
+2025-04-03 14:04:45.059 [info] Extension host with pid 5506 started
+2025-04-03 14:04:45.124 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-04-03 14:04:45.141 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-04-03 14:04:45.158 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-04-03 14:04:45.259 [info] Extension host terminating: renderer closed the MessagePort
+2025-04-03 14:04:45.261 [info] Extension host with pid 5506 exiting with code 0

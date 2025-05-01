@@ -1,0 +1,27 @@
+2025-04-03 14:04:48.688 [info] Extension host with pid 5686 started
+2025-04-03 14:04:48.799 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-04-03 14:04:48.854 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-04-03 14:04:48.855 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-03 14:04:48.881 [info] Eager extensions activated
+2025-04-03 14:04:48.882 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-03 14:04:48.884 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-03 14:05:25.601 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2025-04-03 14:06:18.807 [info] Extension host terminating: renderer closed the MessagePort
+2025-04-03 14:06:18.810 [info] Extension host with pid 5686 exiting with code 0
+2025-04-03 14:06:19.766 [info] Extension host with pid 6099 started
+2025-04-03 14:06:19.766 [info] Skipping acquiring lock for /home/noahthebonner/.config/VSCodium/User/workspaceStorage/45019fb57c6a4256f73b75de8da84b42.
+2025-04-03 14:06:19.837 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-04-03 14:06:19.843 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:requirements.txt'
+2025-04-03 14:06:19.991 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-03 14:06:20.033 [info] Eager extensions activated
+2025-04-03 14:06:20.073 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-03 14:06:20.074 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-03 14:06:21.859 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-04-03 14:06:22.015 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-04-03 14:06:22.094 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-04-03 14:06:24.336 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-04-03 14:06:26.097 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-04-03 14:06:26.123 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-04-03 14:06:26.451 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-04-03 14:06:43.973 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-04-03 14:08:52.072 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'

@@ -1,0 +1,21 @@
+2025-04-03 14:45:20.896 [info] Started local extension host with pid 1381.
+2025-04-03 14:45:23.625 [info] [perf] Render performance baseline is 14ms
+2025-04-03 14:45:33.898 [error] Error while getting the latest version for the extension formulahendry.code-runner. Fetch timeout: 10000ms
+2025-04-03 14:45:33.899 [error] Error while getting the latest version for the extension ms-python.debugpy. Fetch timeout: 10000ms
+2025-04-03 14:45:33.899 [error] Error while getting the latest version for the extension ms-python.python. Fetch timeout: 10000ms
+2025-04-03 14:48:39.379 [error] Error while getting the latest version for the extension formulahendry.code-runner. Fetch timeout: 10000ms
+2025-04-03 14:48:39.380 [error] Error while getting the latest version for the extension ms-python.debugpy. Fetch timeout: 10000ms
+2025-04-03 14:48:39.381 [error] Error while getting the latest version for the extension ms-python.python. Fetch timeout: 10000ms
+2025-04-03 14:49:21.898 [error] Failed: Failed to fetch
+    at uGe.queryRawGalleryExtensions (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:1834:65864)
+    at async uGe.queryGalleryExtensions (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:1834:62336)
+    at async r (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:1834:61233)
+    at async uGe.query (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:1834:61566)
+    at async ynt.queryGallery (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2496:19875)
+    at async Promise.all (index 0)
+    at async mFs.queryGallery (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2288:26332)
+    at async mFs.query (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2288:16685)
+    at async vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2288:14688
+2025-04-03 15:03:13.964 [error] [Extension Host] (node:1381) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-04-03 15:03:15.514 [warning] Authentication provider tabnine was not declared in the Extension Manifest.

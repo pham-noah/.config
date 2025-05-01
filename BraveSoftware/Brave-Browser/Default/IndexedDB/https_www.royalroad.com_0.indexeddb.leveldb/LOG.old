@@ -1,0 +1,47 @@
+2025/04/04-06:54:28.908 5ce Reusing MANIFEST /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.royalroad.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/04-06:54:28.908 5ce Recovering log #99
+2025/04/04-06:54:28.909 5ce Reusing old log /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.royalroad.com_0.indexeddb.leveldb/000099.log 
+2025/04/04-06:54:28.909 5ce Delete type=2 #98
+2025/04/04-06:54:29.029 5cf Level-0 table #104: started
+2025/04/04-06:54:29.030 5cf Level-0 table #104: 1673 bytes OK
+2025/04/04-06:54:29.033 5cf Delete type=0 #99
+2025/04/04-06:54:29.033 5ce Manual compaction at level-0 from '\x00#\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at '\x00#\x00\x00\x05' @ 1116 : 1
+2025/04/04-06:54:29.033 5ce Compacting 1@0 + 1@1 files
+2025/04/04-06:54:29.035 5ce Generated table #105@0: 141 keys, 2732 bytes
+2025/04/04-06:54:29.035 5ce Compacted 1@0 + 1@1 files => 2732 bytes
+2025/04/04-06:54:29.036 5ce compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/04-06:54:29.037 5ce Delete type=2 #104
+2025/04/04-06:54:29.037 5ce Manual compaction at level-0 from '\x00#\x00\x00\x05' @ 1116 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/04-06:54:29.085 5d0 Level-0 table #107: started
+2025/04/04-06:54:29.087 5d0 Level-0 table #107: 1529 bytes OK
+2025/04/04-06:54:29.089 5d0 Delete type=2 #101
+2025/04/04-06:54:29.089 5d0 Delete type=0 #103
+2025/04/04-06:54:29.089 5ce Manual compaction at level-0 from '\x00$\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00%\x00\x00\x00' @ 0 : 0; will stop at '\x00$\x00\x00\x05' @ 1133 : 1
+2025/04/04-06:54:29.089 5ce Compacting 1@0 + 1@1 files
+2025/04/04-06:54:29.093 5ce Generated table #108@0: 141 keys, 3021 bytes
+2025/04/04-06:54:29.093 5ce Compacted 1@0 + 1@1 files => 3021 bytes
+2025/04/04-06:54:29.095 5ce compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/04-06:54:29.095 5ce Delete type=2 #107
+2025/04/04-06:54:29.095 5ce Manual compaction at level-0 from '\x00$\x00\x00\x05' @ 1133 : 1 .. '\x00%\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/04-06:56:37.294 5ce Level-0 table #110: started
+2025/04/04-06:56:37.296 5ce Level-0 table #110: 2354 bytes OK
+2025/04/04-06:56:37.298 5ce Delete type=2 #105
+2025/04/04-06:56:37.298 5ce Delete type=0 #106
+2025/04/04-06:56:37.298 5ce Manual compaction at level-0 from '\x00%\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00&\x00\x00\x00' @ 0 : 0; will stop at '\x00%\x00\x00\x05' @ 1190 : 1
+2025/04/04-06:56:37.298 5ce Compacting 1@0 + 1@1 files
+2025/04/04-06:56:37.302 5ce Generated table #111@0: 141 keys, 2751 bytes
+2025/04/04-06:56:37.302 5ce Compacted 1@0 + 1@1 files => 2751 bytes
+2025/04/04-06:56:37.303 5ce compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/04-06:56:37.303 5ce Delete type=2 #110
+2025/04/04-06:56:37.303 5ce Manual compaction at level-0 from '\x00%\x00\x00\x05' @ 1190 : 1 .. '\x00&\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/04-06:56:37.336 5d0 Level-0 table #113: started
+2025/04/04-06:56:37.337 5d0 Level-0 table #113: 1619 bytes OK
+2025/04/04-06:56:37.339 5d0 Delete type=2 #108
+2025/04/04-06:56:37.339 5d0 Delete type=0 #109
+2025/04/04-06:56:37.339 5ce Manual compaction at level-0 from '\x00&\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00'\x00\x00\x00' @ 0 : 0; will stop at '\x00&\x00\x00\x05' @ 1207 : 1
+2025/04/04-06:56:37.340 5ce Compacting 1@0 + 1@1 files
+2025/04/04-06:56:37.343 5ce Generated table #114@0: 141 keys, 2750 bytes
+2025/04/04-06:56:37.343 5ce Compacted 1@0 + 1@1 files => 2750 bytes
+2025/04/04-06:56:37.346 5ce compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/04-06:56:37.346 5ce Delete type=2 #113
+2025/04/04-06:56:37.346 5ce Manual compaction at level-0 from '\x00&\x00\x00\x05' @ 1207 : 1 .. '\x00'\x00\x00\x00' @ 0 : 0; will stop at (end)
