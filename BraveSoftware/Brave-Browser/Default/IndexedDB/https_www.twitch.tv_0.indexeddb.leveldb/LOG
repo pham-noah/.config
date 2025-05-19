@@ -1,0 +1,6 @@
+2025/05/04-04:29:40.191 4f1 Creating DB /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb since it was missing.
+2025/05/04-04:29:40.214 4f1 Reusing MANIFEST /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/04-04:30:12.243 4f2 Level-0 table #5: started
+2025/05/04-04:30:12.245 4f2 Level-0 table #5: 858 bytes OK
+2025/05/04-04:30:12.247 4f2 Delete type=0 #3
+2025/05/04-04:30:12.247 4f2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -18,7 +18,8 @@ mainbox {
 /* ---- Entry input ---- */
 entry {
   expand: true;
-  placeholder: " ⬇️  Select Which Rofi Theme wanted to apply";
+  horizontal-align: 0.5;
+  placeholder: " ⬇️ Select Which Rofi Theme wanted to apply";
 }
 
 /* ---- Listview ---- */

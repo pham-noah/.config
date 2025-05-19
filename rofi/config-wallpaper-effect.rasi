@@ -13,7 +13,8 @@ mainbox {
 /* ---- Entry ---- */ 
 entry {
   width: 32%;
-  placeholder: " 🏙️ Search / Choose desired wallpaper effect";
+  horizontal-align: 0.5;
+  placeholder: " 🏙️ Choose wallpaper effect";
 }
 
 /* ---- Window ---- */
@@ -33,9 +34,9 @@ listview {
 }
 
 /* ---- Inputbar ---- */
-inputbar {
-  background-image: url("~/.config/hypr/wallpaper_effects/.wallpaper_modified", width);
-}
+// inputbar {
+//   background-image: url("~/.config/hypr/wallpaper_effects/.wallpaper_modified", width);
+// }
 
 /* ---- Element ---- */
 element-icon {
@@ -43,7 +44,7 @@ element-icon {
 }
 
 element-text {
-  horizontal-align: 0.0;
+  horizontal-align: 0.5;
   vertical-align: 0.0;
   margin: 0px;
   padding: 0px;

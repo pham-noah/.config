@@ -1,3 +1,15 @@
-2025/04/29-01:47:37.191 4fb Reusing MANIFEST /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/04/29-01:47:37.191 4fb Recovering log #4
-2025/04/29-01:47:37.191 4fb Reusing old log /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000004.log 
+2025/05/09-02:10:54.365 51d Reusing MANIFEST /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/09-02:10:54.365 51d Recovering log #7
+2025/05/09-02:10:54.365 51d Reusing old log /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000007.log 
+2025/05/09-02:11:26.372 51d Level-0 table #12: started
+2025/05/09-02:11:26.374 51d Level-0 table #12: 868 bytes OK
+2025/05/09-02:11:26.376 51d Delete type=0 #7
+2025/05/09-02:11:26.377 51d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/05/09-02:11:26.377 51d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x15\x00v\x002\x00_\x00e\x00v\x00e\x00n\x00t\x00_\x00b\x00o\x00i\x00l\x00e\x00r\x00_\x00p\x00l\x00a\x00t\x00e' @ 269 : 1
+2025/05/09-02:11:26.377 51d Compacting 1@1 + 1@2 files
+2025/05/09-02:11:26.380 51d Generated table #13@1: 23 keys, 830 bytes
+2025/05/09-02:11:26.380 51d Compacted 1@1 + 1@2 files => 830 bytes
+2025/05/09-02:11:26.382 51d compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/09-02:11:26.382 51d Delete type=2 #9
+2025/05/09-02:11:26.382 51d Delete type=2 #12
+2025/05/09-02:11:26.383 51d Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x15\x00v\x002\x00_\x00e\x00v\x00e\x00n\x00t\x00_\x00b\x00o\x00i\x00l\x00e\x00r\x00_\x00p\x00l\x00a\x00t\x00e' @ 269 : 1 .. (end); will stop at (end)

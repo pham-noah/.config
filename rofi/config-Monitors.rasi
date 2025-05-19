@@ -1,4 +1,4 @@
-/* ---- 💫 https://github.com/JaKooLit 💫 ---- */
+ * ---- 💫 https://github.com/JaKooLit 💫 ---- */
 /* Monitor Profiles Menu */
 
 @import "~/.config/rofi/config.rasi" 
@@ -6,7 +6,7 @@
 /* ---- Mainbox ---- */
 mainbox {
   children:
-    [ "inputbar", "message", "listview"];
+    [ "inputbar", "listview"];
 }
 
 /* ---- Window ---- */
@@ -18,7 +18,7 @@ window {
 /* ---- Entry ---- */ 
 entry {
   width: 43%;
-  placeholder: " 💻 Search / Choose which Monitor Profiles to load";
+  placeholder: " 💻 Choose which Monitor Profiles to load";
   horizontal-align: 0.5;
 }
 

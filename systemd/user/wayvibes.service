@@ -1,0 +1,12 @@
+[Unit]
+Description=Wayvibes Service
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/wayvibes /home/noahthebonner/Downloads/opera/ -v 1
+Restart=on-failure
+WorkingDirectory=/home/noahthebonner
+
+[Install]
+WantedBy=default.target

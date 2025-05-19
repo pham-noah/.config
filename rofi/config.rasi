@@ -20,4 +20,13 @@
 /* You can manually change here or you can use rofi theme selector SUPER SHIFT E */
 
 
-@theme "~/.config/rofi/themes/KooL_style-4.rasi"
+//@theme "~/.config/rofi/themes/Noah.rasi"
+//@theme "~/.config/rofi/themes/Noah.rasi"
+//@theme "~/.config/rofi/themes/Cyberpunk.rasi"
+//@theme "~/.config/rofi/themes/Noah.rasi"
+//@theme "~/.config/rofi/themes/Cyberpunk.rasi"
+//@theme "~/.config/rofi/themes/Cyberpunk.rasi"
+//@theme "~/.config/rofi/themes/KooL_style-4.rasi"
+//@theme "~/.config/rofi/themes/Cyberpunk.rasi"
+//@theme "~/.config/rofi/themes/Noah.rasi"
+@theme "~/.config/rofi/themes/Cyberpunk.rasi"

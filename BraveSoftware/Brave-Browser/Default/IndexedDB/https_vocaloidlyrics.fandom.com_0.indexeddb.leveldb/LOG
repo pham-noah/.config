@@ -1,0 +1,6 @@
+2025/05/08-23:10:19.050 51c Creating DB /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_vocaloidlyrics.fandom.com_0.indexeddb.leveldb since it was missing.
+2025/05/08-23:10:19.054 51c Reusing MANIFEST /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_vocaloidlyrics.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/09-00:17:56.444 51e Level-0 table #5: started
+2025/05/09-00:17:56.446 51e Level-0 table #5: 9344 bytes OK
+2025/05/09-00:17:56.449 51e Delete type=0 #3
+2025/05/09-00:17:56.450 51c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

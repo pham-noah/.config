@@ -1,26 +1,15 @@
-2025/03/29-16:04:45.467 4fd Creating DB /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb since it was missing.
-2025/03/29-16:04:45.471 4fd Reusing MANIFEST /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/03/29-16:40:27.125 4fd Level-0 table #5: started
-2025/03/29-16:40:27.150 4fd Level-0 table #5: 1741399 bytes OK
-2025/03/29-16:40:27.152 4fd Delete type=0 #3
-2025/03/29-16:59:02.320 4fd Level-0 table #7: started
-2025/03/29-16:59:02.345 4fd Level-0 table #7: 2047399 bytes OK
-2025/03/29-16:59:02.348 4fd Delete type=0 #4
-2025/03/29-16:59:14.610 4fc Compacting 1@1 + 1@2 files
-2025/03/29-16:59:14.632 4fc Generated table #8@1: 446 keys, 34930 bytes
-2025/03/29-16:59:14.632 4fc Compacted 1@1 + 1@2 files => 34930 bytes
-2025/03/29-16:59:14.634 4fc compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/03/29-18:15:56.074 4fd Level-0 table #10: started
-2025/03/29-18:15:56.080 4fd Level-0 table #10: 1273219 bytes OK
-2025/03/29-18:15:56.084 4fd Delete type=2 #7
-2025/03/29-18:15:56.084 4fd Delete type=0 #6
-2025/03/29-18:15:56.084 4fd Delete type=2 #5
-2025/03/29-18:15:56.085 4fd Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2025/03/29-18:15:56.085 4fd Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x09\x01\x1f\x04\x02\x03\x00\x00\x00\x00\x00\xc0P@\x03\x00\x10I\xd81^yB\x00\x03\x00\x00\x00\x00\x00@T@' @ 10760 : 1
-2025/03/29-18:15:56.085 4fd Compacting 1@1 + 1@2 files
-2025/03/29-18:15:56.113 4fd Generated table #11@1: 486 keys, 44379 bytes
-2025/03/29-18:15:56.113 4fd Compacted 1@1 + 1@2 files => 44379 bytes
-2025/03/29-18:15:56.115 4fd compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/03/29-18:15:56.116 4fd Delete type=2 #10
-2025/03/29-18:15:56.116 4fd Delete type=2 #8
-2025/03/29-18:15:56.116 4fd Manual compaction at level-1 from '\x00\x09\x01\x1f\x04\x02\x03\x00\x00\x00\x00\x00\xc0P@\x03\x00\x10I\xd81^yB\x00\x03\x00\x00\x00\x00\x00@T@' @ 10760 : 1 .. (end); will stop at (end)
+2025/05/07-18:00:55.874 501 Reusing MANIFEST /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/07-18:00:55.874 501 Recovering log #9
+2025/05/07-18:00:55.874 501 Reusing old log /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000009.log 
+2025/05/07-18:01:28.576 502 Level-0 table #14: started
+2025/05/07-18:01:28.578 502 Level-0 table #14: 1138 bytes OK
+2025/05/07-18:01:28.579 502 Delete type=0 #9
+2025/05/07-18:01:28.580 502 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/05/07-18:01:28.580 502 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 11070 : 0
+2025/05/07-18:01:28.580 502 Compacting 1@1 + 1@2 files
+2025/05/07-18:01:28.583 502 Generated table #15@1: 488 keys, 44866 bytes
+2025/05/07-18:01:28.583 502 Compacted 1@1 + 1@2 files => 44866 bytes
+2025/05/07-18:01:28.585 502 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/07-18:01:28.585 502 Delete type=2 #11
+2025/05/07-18:01:28.585 502 Delete type=2 #14
+2025/05/07-18:01:28.585 502 Manual compaction at level-1 from '\x00\x08\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 11070 : 0 .. (end); will stop at (end)

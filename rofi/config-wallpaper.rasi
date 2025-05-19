@@ -21,8 +21,7 @@ mainbox {
 
 entry {
   expand: true;
-  placeholder: " 🎞️ Search / Choose Wallpaper";
-  horizontal-align: 0.5;
+  placeholder: " 🎞️ Choose Wallpaper";
   horizontal-align: 0.5;
 }
 

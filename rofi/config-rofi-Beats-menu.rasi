@@ -14,14 +14,14 @@ entry {
   expand: false;
   width: 25%;
   width: 25%;
-  placeholder: " 📻 Choose Music Source";
-  horizontal-align: 0.5;
-  horizontal-align: 0.5;
+  placeholder: "📻 Music Source";
+  horizontal-align: 0;
+  horizontal-align: 0;
 }
 
 /* ---- Window ---- */
 window {
-  width: 28%;
+  width: 15%;
   height: inherit;
 }
 
@@ -40,6 +40,6 @@ element-icon {
   	size: 0%;
 }
 element-text {
-    horizontal-align: 0.5;
+    horizontal-align: 0;
     
 }

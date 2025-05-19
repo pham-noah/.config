@@ -19,6 +19,7 @@ window {
 /* ---- Entry ---- */
 entry {
   expand: true;
+  horizontal-align: 0.5;
   placeholder: " 🧮 Calculate";
 }
 

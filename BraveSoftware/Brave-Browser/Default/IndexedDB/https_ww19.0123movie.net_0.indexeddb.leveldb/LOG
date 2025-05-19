@@ -1,0 +1,6 @@
+2025/05/12-18:01:21.704 4f0 Creating DB /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_ww19.0123movie.net_0.indexeddb.leveldb since it was missing.
+2025/05/12-18:01:21.710 4f0 Reusing MANIFEST /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_ww19.0123movie.net_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/12-18:05:06.023 4f1 Level-0 table #5: started
+2025/05/12-18:05:06.025 4f1 Level-0 table #5: 847 bytes OK
+2025/05/12-18:05:06.027 4f1 Delete type=0 #3
+2025/05/12-18:05:06.027 4f1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

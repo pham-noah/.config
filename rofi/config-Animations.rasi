@@ -6,7 +6,7 @@
 /* ---- Mainbox ---- */
 mainbox {
   children:
-    [ "inputbar", "message", "listview"];
+    [ "inputbar", "listview"];
 }
 
 /* ---- Window ---- */
@@ -18,7 +18,8 @@ window {
 /* ---- Entry ---- */ 
 entry {
   width: 43%;
-  placeholder: " ✨ Search / Choose which Animations to load";
+  horizontal-align: 0.5;
+  placeholder: " ✨ Choose which Animations to load";
 }
 
 /* ---- Listview ---- */

@@ -1,0 +1,6 @@
+2025/05/07-07:14:34.463 4f2 Creating DB /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.airbnb.com_0.indexeddb.leveldb since it was missing.
+2025/05/07-07:14:34.485 4f2 Reusing MANIFEST /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.airbnb.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/07-07:16:04.110 4f3 Level-0 table #5: started
+2025/05/07-07:16:04.112 4f3 Level-0 table #5: 19978 bytes OK
+2025/05/07-07:16:04.119 4f3 Delete type=0 #3
+2025/05/07-07:16:04.120 4f3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

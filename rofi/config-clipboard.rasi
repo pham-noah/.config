@@ -18,12 +18,13 @@ mainbox {
 /* ---- Entry ---- */
 entry {
   width: inherit;
-  placeholder: " 📋 Search  Clipboard ";
+  horizontal-align: 0.5;
+  placeholder: " 📋 Search Clipboard";
 }
 
 /* ---- Listview ---- */
 listview {
-  columns: 1;
+  columns: 3;
   lines: 8;
   fixed-height: true;
   spacing: 6px;

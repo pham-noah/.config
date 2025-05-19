@@ -1,0 +1,27 @@
+2025/05/19-02:11:37.107 5cb5 Reusing MANIFEST /home/noahthebonner/.config/whatsapp-nativefier-d40211/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/19-02:11:37.107 5cb5 Recovering log #533
+2025/05/19-02:11:37.112 5cb5 Reusing old log /home/noahthebonner/.config/whatsapp-nativefier-d40211/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000533.log 
+2025/05/19-02:11:38.731 5cc5 Level-0 table #545: started
+2025/05/19-02:11:38.735 5cc5 Level-0 table #545: 331811 bytes OK
+2025/05/19-02:11:38.736 5cc5 Delete type=0 #533
+2025/05/19-02:11:38.737 5cb5 Manual compaction at level-0 from '\x00\x1d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/19-02:11:40.126 5cb5 Compacting 1@1 + 8@2 files
+2025/05/19-02:11:40.158 5cb5 Generated table #546@1: 68595 keys, 2210801 bytes
+2025/05/19-02:11:40.199 5cb5 Generated table #547@1: 97846 keys, 2249751 bytes
+2025/05/19-02:11:40.242 5cb5 Generated table #548@1: 90744 keys, 2272231 bytes
+2025/05/19-02:11:40.261 5cb5 Generated table #549@1: 12648 keys, 2169683 bytes
+2025/05/19-02:11:40.281 5cb5 Generated table #550@1: 12375 keys, 2193728 bytes
+2025/05/19-02:11:40.312 5cb5 Generated table #551@1: 30338 keys, 2261232 bytes
+2025/05/19-02:11:40.339 5cb5 Generated table #552@1: 31715 keys, 2173966 bytes
+2025/05/19-02:11:40.369 5cb5 Generated table #553@1: 81401 keys, 1792047 bytes
+2025/05/19-02:11:40.369 5cb5 Compacted 1@1 + 8@2 files => 17323439 bytes
+2025/05/19-02:11:40.371 5cb5 compacted to: files[ 0 0 8 0 0 0 0 ]
+2025/05/19-02:11:40.372 5cb5 Delete type=2 #541
+2025/05/19-02:11:40.372 5cb5 Delete type=2 #535
+2025/05/19-02:11:40.372 5cb5 Delete type=2 #540
+2025/05/19-02:11:40.372 5cb5 Delete type=2 #537
+2025/05/19-02:11:40.372 5cb5 Delete type=2 #539
+2025/05/19-02:11:40.372 5cb5 Delete type=2 #538
+2025/05/19-02:11:40.372 5cb5 Delete type=2 #545
+2025/05/19-02:11:40.372 5cb5 Delete type=2 #542
+2025/05/19-02:11:40.372 5cb5 Delete type=2 #536

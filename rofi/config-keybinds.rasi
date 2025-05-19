@@ -7,12 +7,13 @@
 /* ---- Mainbox ---- */
 mainbox {
   children:
-    [ "inputbar", "message", "listview"];
+    [ "inputbar", "listview"];
 }
 
 /* ---- Entry ---- */
 entry {
   expand: true;
+  horizontal-align: 0.5;
   placeholder: " 🧮 Search Keybinds";
 }
 

@@ -1,48 +1,12 @@
-2025/05/01-23:13:12.082 1558 Reusing MANIFEST /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
-2025/05/01-23:13:12.083 1558 Recovering log #238
-2025/05/01-23:13:12.089 1558 Reusing old log /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000238.log 
-2025/05/01-23:13:16.407 1559 Level-0 table #245: started
-2025/05/01-23:13:16.435 1559 Level-0 table #245: 1192340 bytes OK
-2025/05/01-23:13:16.437 1559 Delete type=0 #238
-2025/05/01-23:18:17.195 1558 Level-0 table #247: started
-2025/05/01-23:18:17.209 1558 Level-0 table #247: 841478 bytes OK
-2025/05/01-23:18:17.211 1558 Delete type=0 #244
-2025/05/01-23:30:04.794 1557 Compacting 1@0 + 1@1 files
-2025/05/01-23:30:04.829 1557 Generated table #248@0: 8 keys, 804215 bytes
-2025/05/01-23:30:04.829 1557 Compacted 1@0 + 1@1 files => 804215 bytes
-2025/05/01-23:30:04.831 1557 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/05/01-23:34:45.134 1559 Compacting 1@1 + 1@2 files
-2025/05/01-23:34:45.160 1559 Generated table #249@1: 29 keys, 806128 bytes
-2025/05/01-23:34:45.161 1559 Compacted 1@1 + 1@2 files => 806128 bytes
-2025/05/01-23:34:45.162 1559 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/05/01-23:34:45.163 1559 Delete type=2 #248
-2025/05/01-23:34:45.163 1559 Delete type=2 #242
-2025/05/01-23:34:45.163 1559 Delete type=2 #245
-2025/05/01-23:34:45.163 1559 Delete type=2 #247
-2025/05/01-23:43:55.845 1558 Level-0 table #251: started
-2025/05/01-23:43:55.870 1558 Level-0 table #251: 828736 bytes OK
-2025/05/01-23:43:55.872 1558 Delete type=0 #246
-2025/05/01-23:44:59.048 1558 Level-0 table #253: started
-2025/05/01-23:44:59.071 1558 Level-0 table #253: 823494 bytes OK
-2025/05/01-23:44:59.073 1558 Delete type=0 #250
-2025/05/01-23:45:51.966 1558 Level-0 table #255: started
-2025/05/01-23:45:51.983 1558 Level-0 table #255: 832136 bytes OK
-2025/05/01-23:45:51.985 1558 Delete type=0 #252
-2025/05/01-23:50:13.788 1558 Compacting 1@1 + 1@2 files
-2025/05/01-23:50:13.816 1558 Generated table #256@1: 29 keys, 805834 bytes
-2025/05/01-23:50:13.816 1558 Compacted 1@1 + 1@2 files => 805834 bytes
-2025/05/01-23:50:13.818 1558 compacted to: files[ 2 0 1 0 0 0 0 ]
-2025/05/01-23:50:13.818 1558 Delete type=2 #249
-2025/05/01-23:50:13.818 1558 Delete type=2 #251
-2025/05/02-00:00:40.350 1557 Compacting 2@0 + 0@1 files
-2025/05/02-00:00:40.373 1557 Generated table #257@0: 4 keys, 27039 bytes
-2025/05/02-00:00:40.373 1557 Compacted 2@0 + 0@1 files => 27039 bytes
-2025/05/02-00:00:40.374 1557 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/05/02-00:00:40.374 1557 Delete type=2 #255
-2025/05/02-00:00:40.374 1557 Delete type=2 #253
-2025/05/02-00:13:44.697 1559 Compacting 1@1 + 1@2 files
-2025/05/02-00:13:44.723 1559 Generated table #258@1: 29 keys, 806044 bytes
-2025/05/02-00:13:44.723 1559 Compacted 1@1 + 1@2 files => 806044 bytes
-2025/05/02-00:13:44.725 1559 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/05/02-00:13:44.725 1559 Delete type=2 #256
-2025/05/02-00:13:44.725 1559 Delete type=2 #257
+2025/05/19-15:07:36.009 292bf Reusing MANIFEST /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2025/05/19-15:07:36.009 292bf Recovering log #2966
+2025/05/19-15:07:36.014 292bf Reusing old log /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/002966.log 
+2025/05/19-15:25:46.286 292be Level-0 table #2971: started
+2025/05/19-15:25:46.313 292be Level-0 table #2971: 963491 bytes OK
+2025/05/19-15:25:46.315 292be Delete type=0 #2966
+2025/05/19-15:26:36.138 292bd Compacting 1@1 + 1@2 files
+2025/05/19-15:26:36.162 292bd Generated table #2972@1: 31 keys, 406979 bytes
+2025/05/19-15:26:36.162 292bd Compacted 1@1 + 1@2 files => 406979 bytes
+2025/05/19-15:26:36.164 292bd compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/19-15:26:36.164 292bd Delete type=2 #2971
+2025/05/19-15:26:36.164 292bd Delete type=2 #2968

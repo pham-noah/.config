@@ -6,7 +6,7 @@
 /* ---- Mainbox ---- */
 mainbox {
   children:
-    [ "inputbar", "message", "listview"];
+    [ "inputbar", "listview"];
 }
 
 
@@ -35,7 +35,7 @@ listview {
 /* ---- Entry input ---- */
 entry {
   expand: true;
-  placeholder: " 💫  Customize KooL Hyprland  💫";
+  placeholder: " 💫  Customize KooL Hyprland";
   horizontal-align: 0.5;
 }
 

@@ -15,8 +15,8 @@ iDIRi="$HOME/.config/swaync/icons"
 # swww transition config
 FPS=60
 TYPE="any"
-DURATION=2
-BEZIER=".43,1.19,1,.4"
+DURATION=1.5
+BEZIER=".22,0,0.1,1"
 SWWW_PARAMS="--transition-fps $FPS --transition-type $TYPE --transition-duration $DURATION --transition-bezier $BEZIER"
 
 # Check if package bc exists
@@ -78,6 +78,8 @@ menu() {
 
   for pic_path in "${sorted_options[@]}"; do
     pic_name=$(basename "$pic_path")
+
+    # gif video preview
     if [[ "$pic_name" =~ \.gif$ ]]; then
       cache_gif_image="$HOME/.cache/gif_preview/${pic_name}.png"
       if [[ ! -f "$cache_gif_image" ]]; then
@@ -85,6 +87,8 @@ menu() {
         magick "$pic_path[0]" -resize 1920x1080 "$cache_gif_image"
       fi
       printf "%s\x00icon\x1f%s\n" "$pic_name" "$cache_gif_image"
+
+      # for other extension
     elif [[ "$pic_name" =~ \.(mp4|mkv|mov|webm|MP4|MKV|MOV|WEBM)$ ]]; then
       cache_preview_image="$HOME/.cache/video_preview/${pic_name}.png"
       if [[ ! -f "$cache_preview_image" ]]; then
@@ -92,6 +96,8 @@ menu() {
         ffmpeg -v error -y -i "$pic_path" -ss 00:00:01.000 -vframes 1 "$cache_preview_image"
       fi
       printf "%s\x00icon\x1f%s\n" "$pic_name" "$cache_preview_image"
+
+    # for something else
     else
       printf "%s\x00icon\x1f%s\n" "$(echo "$pic_name" | cut -d. -f1)" "$pic_path"
     fi
@@ -110,7 +116,8 @@ set_sddm_wallpaper() {
       killall yad
     fi
 
-    if yad --info --text="Set current wallpaper as SDDM background?\n\nNOTE: This only applies to SEQUOIA SDDM Theme" \
+    #Note: This only applies to SEQUOIA SDDM Theme
+    if yad --info --text="Set current wallpaper as SDDM background?" \
       --text-align=left \
       --title="SDDM Background" \
       --timeout=5 \
@@ -172,11 +179,8 @@ apply_image_wallpaper() {
 
   # Run additional scripts
   "$SCRIPTSDIR/WallustSwww.sh"
-  sleep 2
-  "$SCRIPTSDIR/Refresh.sh"
-  sleep 1
-
-  set_sddm_wallpaper
+  sleep 3
+  # set_sddm_wallpaper
 }
 
 apply_video_wallpaper() {
@@ -236,4 +240,3 @@ if pidof rofi >/dev/null; then
 fi
 
 main
-

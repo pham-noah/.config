@@ -5,7 +5,7 @@
 
 /* ---- Mainbox ---- */
 mainbox {
-  children: [ "inputbar", "message", "listview"];
+  children: [ "inputbar", "listview"];
 }
 
 /* ---- Configuration ---- */
@@ -22,7 +22,8 @@ window {
 /* ---- Entry ---- */ 
 entry {
   expand: true;
-  placeholder: " 🖼️  Search / Choose Waybar Style";
+  horizontal-align: 0.5;
+  placeholder: " 🖼️  Choose Waybar Style";
 }
 
 /* ---- Listview ---- */

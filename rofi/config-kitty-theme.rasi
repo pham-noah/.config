@@ -32,7 +32,8 @@ inputbar {
 
 entry {
   expand: true;
-  placeholder: " 🐾  Search / Choose Kitty theme";
+  horizontal-align: 0.5;
+  placeholder: " 🐾  Choose Kitty theme";
 }
 
 /* ---- Listview ---- */
