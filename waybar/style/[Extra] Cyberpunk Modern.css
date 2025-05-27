@@ -1,5 +1,5 @@
 /* ----------- 💫 https://github.com/JaKooLit 💫 -------- */
-/* .............Prismatic Glow............ */
+/* .............Noah............ */
 
 * {
     font-family: "JetBrainsMono Nerd Font";
@@ -75,8 +75,8 @@ tooltip label {
 }
 
 #workspaces button.active {
-    color: rgb(84,193,230);
-    border-bottom: 2px solid transparent;
+    color: #FA8BFF;
+    border-bottom: 2.5px solid transparent;
     /* border-top: 2px solid transparent; */
     border-image: linear-gradient(45deg, #FA8BFF, #2BD2FF) 1;
     padding: 0 10px;
@@ -87,7 +87,7 @@ tooltip label {
 }
 
 #workspaces button.visible {
-    color: rgb(0, 0, 255);
+    color: #FA8BFF;
 }
 
 #workspaces button.urgent {
@@ -258,6 +258,7 @@ label:focus {
 #mpd,
 #mpris,
 #custom-playerctl,
+#custom-cava_mviz,
 #window {
     color: black;
     background: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #FA8BFF 90%);

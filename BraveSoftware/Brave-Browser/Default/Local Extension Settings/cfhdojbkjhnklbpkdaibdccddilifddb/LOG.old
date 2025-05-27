@@ -1,3 +1,28 @@
-2025/05/19-14:43:21.647 17cc5 Reusing MANIFEST /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
-2025/05/19-14:43:21.649 17cc5 Recovering log #2966
-2025/05/19-14:43:21.655 17cc5 Reusing old log /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/002966.log 
+2025/05/26-15:35:13.425 517 Reusing MANIFEST /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2025/05/26-15:35:13.427 517 Recovering log #3221
+2025/05/26-15:35:13.433 517 Reusing old log /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/003221.log 
+2025/05/26-15:35:23.614 524 Level-0 table #3226: started
+2025/05/26-15:35:23.622 524 Level-0 table #3226: 721550 bytes OK
+2025/05/26-15:35:23.624 524 Delete type=0 #3221
+2025/05/26-15:49:19.022 516 Level-0 table #3228: started
+2025/05/26-15:49:19.045 516 Level-0 table #3228: 740273 bytes OK
+2025/05/26-15:49:19.047 516 Delete type=0 #3225
+2025/05/26-15:53:03.363 516 Compacting 1@1 + 1@2 files
+2025/05/26-15:53:03.387 516 Generated table #3229@1: 33 keys, 316954 bytes
+2025/05/26-15:53:03.388 516 Compacted 1@1 + 1@2 files => 316954 bytes
+2025/05/26-15:53:03.389 516 compacted to: files[ 1 0 1 0 0 0 0 ]
+2025/05/26-15:53:03.390 516 Delete type=2 #3223
+2025/05/26-15:53:03.390 516 Delete type=2 #3226
+2025/05/26-15:53:43.330 515 Moved #3228 to level-1 740273 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-15:56:16.903 516 Compacting 1@1 + 1@2 files
+2025/05/26-15:56:16.926 516 Generated table #3230@1: 33 keys, 317145 bytes
+2025/05/26-15:56:16.926 516 Compacted 1@1 + 1@2 files => 317145 bytes
+2025/05/26-15:56:16.927 516 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/26-15:56:16.927 516 Delete type=2 #3228
+2025/05/26-15:56:16.928 516 Delete type=2 #3229
+2025/05/26-16:17:53.177 516 Level-0 table #3232: started
+2025/05/26-16:17:53.185 516 Level-0 table #3232: 663405 bytes OK
+2025/05/26-16:17:53.187 516 Delete type=0 #3227
+2025/05/26-16:20:18.445 516 Level-0 table #3234: started
+2025/05/26-16:20:18.457 516 Level-0 table #3234: 739250 bytes OK
+2025/05/26-16:20:18.458 516 Delete type=0 #3231

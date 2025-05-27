@@ -1,12 +1,78 @@
-2025/05/19-09:39:19.932 528 Reusing MANIFEST /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/05/19-09:39:19.933 528 Recovering log #729
-2025/05/19-09:39:19.937 528 Reusing old log /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000729.log 
-2025/05/19-09:39:39.898 518 Level-0 table #734: started
-2025/05/19-09:39:39.924 518 Level-0 table #734: 1207894 bytes OK
-2025/05/19-09:39:39.926 518 Delete type=0 #729
-2025/05/19-09:57:41.830 518 Compacting 1@1 + 1@2 files
-2025/05/19-09:57:41.854 518 Generated table #735@1: 1063 keys, 212510 bytes
-2025/05/19-09:57:41.854 518 Compacted 1@1 + 1@2 files => 212510 bytes
-2025/05/19-09:57:41.856 518 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/05/19-09:57:41.856 518 Delete type=2 #734
-2025/05/19-09:57:41.856 518 Delete type=2 #731
+2025/05/27-02:35:55.547 5ca Reusing MANIFEST /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/27-02:35:55.547 5ca Recovering log #895
+2025/05/27-02:35:55.553 5ca Reusing old log /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000895.log 
+2025/05/27-02:35:57.755 5bc Level-0 table #900: started
+2025/05/27-02:35:57.766 5bc Level-0 table #900: 1449301 bytes OK
+2025/05/27-02:35:57.768 5bc Delete type=0 #895
+2025/05/27-02:36:03.924 5bb Compacting 1@1 + 1@2 files
+2025/05/27-02:36:03.929 5bb Generated table #901@1: 1079 keys, 260346 bytes
+2025/05/27-02:36:03.929 5bb Compacted 1@1 + 1@2 files => 260346 bytes
+2025/05/27-02:36:03.930 5bb compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/27-03:05:09.189 5ba Level-0 table #903: started
+2025/05/27-03:05:09.196 5ba Level-0 table #903: 1364037 bytes OK
+2025/05/27-03:05:09.198 5ba Delete type=2 #897
+2025/05/27-03:05:09.198 5ba Delete type=2 #900
+2025/05/27-03:05:09.198 5ba Delete type=0 #899
+2025/05/27-03:05:09.936 5bc Compacting 1@1 + 1@2 files
+2025/05/27-03:05:09.945 5bc Generated table #904@1: 1073 keys, 203010 bytes
+2025/05/27-03:05:09.945 5bc Compacted 1@1 + 1@2 files => 203010 bytes
+2025/05/27-03:05:09.947 5bc compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/27-03:05:09.947 5bc Delete type=2 #901
+2025/05/27-03:05:09.947 5bc Delete type=2 #903
+2025/05/27-03:14:12.359 5bb Level-0 table #906: started
+2025/05/27-03:14:12.368 5bb Level-0 table #906: 1037463 bytes OK
+2025/05/27-03:14:12.371 5bb Delete type=0 #902
+2025/05/27-03:14:18.063 5ba Compacting 1@1 + 1@2 files
+2025/05/27-03:14:18.072 5ba Generated table #907@1: 1104 keys, 220624 bytes
+2025/05/27-03:14:18.072 5ba Compacted 1@1 + 1@2 files => 220624 bytes
+2025/05/27-03:14:18.075 5ba compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/27-03:14:18.075 5ba Delete type=2 #906
+2025/05/27-03:14:18.075 5ba Delete type=2 #904
+2025/05/27-04:07:44.082 5bb Level-0 table #909: started
+2025/05/27-04:07:44.091 5bb Level-0 table #909: 1263514 bytes OK
+2025/05/27-04:07:44.093 5bb Delete type=0 #905
+2025/05/27-04:25:01.245 5ba Compacting 1@1 + 1@2 files
+2025/05/27-04:25:01.251 5ba Generated table #910@1: 1131 keys, 207155 bytes
+2025/05/27-04:25:01.251 5ba Compacted 1@1 + 1@2 files => 207155 bytes
+2025/05/27-04:25:01.253 5ba compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/27-04:25:01.253 5ba Delete type=2 #907
+2025/05/27-04:25:01.253 5ba Delete type=2 #909
+2025/05/27-04:37:48.990 5bc Level-0 table #912: started
+2025/05/27-04:37:48.999 5bc Level-0 table #912: 1146801 bytes OK
+2025/05/27-04:37:49.002 5bc Delete type=0 #908
+2025/05/27-04:53:10.083 5ba Compacting 1@1 + 1@2 files
+2025/05/27-04:53:10.095 5ba Generated table #913@1: 1157 keys, 223033 bytes
+2025/05/27-04:53:10.095 5ba Compacted 1@1 + 1@2 files => 223033 bytes
+2025/05/27-04:53:10.097 5ba compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/27-04:53:10.098 5ba Delete type=2 #910
+2025/05/27-04:53:10.098 5ba Delete type=2 #912
+2025/05/27-08:54:25.993 5bb Level-0 table #915: started
+2025/05/27-08:54:26.016 5bb Level-0 table #915: 1727435 bytes OK
+2025/05/27-08:54:26.019 5bb Delete type=0 #911
+2025/05/27-09:14:37.101 5ba Compacting 1@1 + 1@2 files
+2025/05/27-09:14:37.118 5ba Generated table #916@1: 1209 keys, 208298 bytes
+2025/05/27-09:14:37.119 5ba Compacted 1@1 + 1@2 files => 208298 bytes
+2025/05/27-09:14:37.121 5ba compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/27-09:14:37.121 5ba Delete type=2 #915
+2025/05/27-09:14:37.121 5ba Delete type=2 #913
+2025/05/27-13:15:42.080 5ba Level-0 table #918: started
+2025/05/27-13:15:42.090 5ba Level-0 table #918: 1711754 bytes OK
+2025/05/27-13:15:42.092 5ba Delete type=0 #914
+2025/05/27-13:45:50.894 5c9 Compacting 1@1 + 1@2 files
+2025/05/27-13:45:50.900 5c9 Generated table #919@1: 1262 keys, 209752 bytes
+2025/05/27-13:45:50.900 5c9 Compacted 1@1 + 1@2 files => 209752 bytes
+2025/05/27-13:45:50.902 5c9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/27-13:45:50.902 5c9 Delete type=2 #918
+2025/05/27-13:45:50.902 5c9 Delete type=2 #916
+2025/05/27-17:37:01.697 5bb Level-0 table #921: started
+2025/05/27-17:37:01.722 5bb Level-0 table #921: 1710401 bytes OK
+2025/05/27-17:37:01.724 5bb Delete type=0 #917
+2025/05/27-18:07:10.164 5bb Compacting 1@1 + 1@2 files
+2025/05/27-18:07:10.196 5bb Generated table #922@1: 1314 keys, 210992 bytes
+2025/05/27-18:07:10.196 5bb Compacted 1@1 + 1@2 files => 210992 bytes
+2025/05/27-18:07:10.198 5bb compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/27-18:07:10.199 5bb Delete type=2 #919
+2025/05/27-18:07:10.199 5bb Delete type=2 #921
+2025/05/27-20:07:43.789 5ba Level-0 table #924: started
+2025/05/27-20:07:43.814 5ba Level-0 table #924: 1839675 bytes OK
+2025/05/27-20:07:43.817 5ba Delete type=0 #920

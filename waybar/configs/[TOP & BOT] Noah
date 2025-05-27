@@ -25,10 +25,8 @@
 "modules-left": [
 	"idle_inhibitor",
 	"custom/separator#line",
-	"group/connections",
-	"custom/separator#line",
 	"clock",
-  "custom/separator#line",
+  "custom/separator#blank",
 	"hyprland/window",
 	],
 
@@ -40,7 +38,8 @@
 	],
 
 "modules-right": [
-    "battery",
+  "battery",
+  "tray",
 	"group/audio",
 	"custom/separator#line",
   "group/power",
@@ -71,7 +70,6 @@
     ],
     
     "modules-center": [
-      "custom/separator#blank",
 	    "custom/cava_mviz",
 	    "custom/separator#blank",
 	    "custom/playerctl",

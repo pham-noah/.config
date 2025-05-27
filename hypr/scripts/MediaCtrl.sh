@@ -7,25 +7,35 @@ music_icon="$HOME/.config/swaync/icons/music.png"
 # Play the next track
 play_next() {
   playerctl next
-  show_music_notification
+  notify-send -e -u low -i $music_icon "Next Song"
 }
 
 # Play the previous track
 play_previous() {
   playerctl previous
-  show_music_notification
+  notify-send -e -u low -i $music_icon "Previous Song"
 }
 
 # Toggle play/pause
 toggle_play_pause() {
   playerctl play-pause
-  show_music_notification
+  toggle_pp_notif
 }
 
 # Stop playback
 stop_playback() {
   playerctl stop
-  notify-send -e -u low -i $music_icon " Playback:" " Stopped"
+  notify-send -e -u low -i $music_icon "Stopped"
+}
+
+# Notif for Toggle play-pause
+toggle_pp_notif() {
+  status=$(playerctl status)
+  if [[ "$status" == "Playing" ]]; then
+    notify-send -e -u low -i $music_icon " Playing"
+  elif [[ "$status" == "Paused" ]]; then
+    notify-send -e -u low -i $music_icon " Paused"
+  fi
 }
 
 # Display notification with song information
@@ -34,9 +44,9 @@ show_music_notification() {
   if [[ "$status" == "Playing" ]]; then
     song_title=$(playerctl metadata title)
     song_artist=$(playerctl metadata artist)
-    notify-send -u low -i $music_icon "Now Playing:" "$song_title by $song_artist"
+    notify-send -e -u low -i $music_icon "Now Playing:" "$song_title by $song_artist"
   elif [[ "$status" == "Paused" ]]; then
-    notify-send -u low -i $music_icon " Playback:" " Paused"
+    notify-send -e -u low -i $music_icon " Playback:" " Paused"
   fi
 }
 

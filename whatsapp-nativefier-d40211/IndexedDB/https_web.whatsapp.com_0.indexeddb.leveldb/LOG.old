@@ -1,27 +1,96 @@
-2025/05/19-02:11:37.107 5cb5 Reusing MANIFEST /home/noahthebonner/.config/whatsapp-nativefier-d40211/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/05/19-02:11:37.107 5cb5 Recovering log #533
-2025/05/19-02:11:37.112 5cb5 Reusing old log /home/noahthebonner/.config/whatsapp-nativefier-d40211/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000533.log 
-2025/05/19-02:11:38.731 5cc5 Level-0 table #545: started
-2025/05/19-02:11:38.735 5cc5 Level-0 table #545: 331811 bytes OK
-2025/05/19-02:11:38.736 5cc5 Delete type=0 #533
-2025/05/19-02:11:38.737 5cb5 Manual compaction at level-0 from '\x00\x1d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at (end)
-2025/05/19-02:11:40.126 5cb5 Compacting 1@1 + 8@2 files
-2025/05/19-02:11:40.158 5cb5 Generated table #546@1: 68595 keys, 2210801 bytes
-2025/05/19-02:11:40.199 5cb5 Generated table #547@1: 97846 keys, 2249751 bytes
-2025/05/19-02:11:40.242 5cb5 Generated table #548@1: 90744 keys, 2272231 bytes
-2025/05/19-02:11:40.261 5cb5 Generated table #549@1: 12648 keys, 2169683 bytes
-2025/05/19-02:11:40.281 5cb5 Generated table #550@1: 12375 keys, 2193728 bytes
-2025/05/19-02:11:40.312 5cb5 Generated table #551@1: 30338 keys, 2261232 bytes
-2025/05/19-02:11:40.339 5cb5 Generated table #552@1: 31715 keys, 2173966 bytes
-2025/05/19-02:11:40.369 5cb5 Generated table #553@1: 81401 keys, 1792047 bytes
-2025/05/19-02:11:40.369 5cb5 Compacted 1@1 + 8@2 files => 17323439 bytes
-2025/05/19-02:11:40.371 5cb5 compacted to: files[ 0 0 8 0 0 0 0 ]
-2025/05/19-02:11:40.372 5cb5 Delete type=2 #541
-2025/05/19-02:11:40.372 5cb5 Delete type=2 #535
-2025/05/19-02:11:40.372 5cb5 Delete type=2 #540
-2025/05/19-02:11:40.372 5cb5 Delete type=2 #537
-2025/05/19-02:11:40.372 5cb5 Delete type=2 #539
-2025/05/19-02:11:40.372 5cb5 Delete type=2 #538
-2025/05/19-02:11:40.372 5cb5 Delete type=2 #545
-2025/05/19-02:11:40.372 5cb5 Delete type=2 #542
-2025/05/19-02:11:40.372 5cb5 Delete type=2 #536
+2025/05/19-17:36:54.363 4621f Reusing MANIFEST /home/noahthebonner/.config/whatsapp-nativefier-d40211/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/19-17:36:54.363 4621f Recovering log #555
+2025/05/19-17:36:54.374 4621f Reusing old log /home/noahthebonner/.config/whatsapp-nativefier-d40211/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000555.log 
+2025/05/19-17:36:56.155 4622f Level-0 table #567: started
+2025/05/19-17:36:56.158 4622f Level-0 table #567: 464396 bytes OK
+2025/05/19-17:36:56.160 4622f Delete type=0 #555
+2025/05/19-17:36:56.160 4621f Manual compaction at level-0 from '\x00\x1f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/19-17:36:57.479 46220 Compacting 1@1 + 8@2 files
+2025/05/19-17:36:57.506 46220 Generated table #568@1: 72456 keys, 2216208 bytes
+2025/05/19-17:36:57.559 46220 Generated table #569@1: 98037 keys, 2251157 bytes
+2025/05/19-17:36:57.609 46220 Generated table #570@1: 88768 keys, 2269654 bytes
+2025/05/19-17:36:57.649 46220 Generated table #571@1: 12646 keys, 2169466 bytes
+2025/05/19-17:36:57.690 46220 Generated table #572@1: 12622 keys, 2194960 bytes
+2025/05/19-17:36:57.729 46220 Generated table #573@1: 30203 keys, 2261009 bytes
+2025/05/19-17:36:57.772 46220 Generated table #574@1: 32346 keys, 2175716 bytes
+2025/05/19-17:36:57.818 46220 Generated table #575@1: 81033 keys, 1787677 bytes
+2025/05/19-17:36:57.818 46220 Compacted 1@1 + 8@2 files => 17325847 bytes
+2025/05/19-17:36:57.820 46220 compacted to: files[ 0 0 8 0 0 0 0 ]
+2025/05/19-17:36:57.820 46220 Delete type=2 #562
+2025/05/19-17:36:57.820 46220 Delete type=2 #560
+2025/05/19-17:36:57.820 46220 Delete type=2 #561
+2025/05/19-17:36:57.820 46220 Delete type=2 #564
+2025/05/19-17:36:57.820 46220 Delete type=2 #559
+2025/05/19-17:36:57.820 46220 Delete type=2 #558
+2025/05/19-17:36:57.820 46220 Delete type=2 #557
+2025/05/19-17:36:57.820 46220 Delete type=2 #563
+2025/05/19-17:36:57.820 46220 Delete type=2 #567
+2025/05/19-17:37:02.034 4621f Level-0 table #577: started
+2025/05/19-17:37:02.066 4621f Level-0 table #577: 1360905 bytes OK
+2025/05/19-17:37:02.068 4621f Delete type=0 #566
+2025/05/19-17:37:02.078 4621f Compacting 1@1 + 8@2 files
+2025/05/19-17:37:02.135 4621f Generated table #578@1: 78250 keys, 2225365 bytes
+2025/05/19-17:37:02.190 4621f Generated table #579@1: 98169 keys, 2250355 bytes
+2025/05/19-17:37:02.251 4621f Generated table #580@1: 87574 keys, 2268796 bytes
+2025/05/19-17:37:02.272 4621f Generated table #581@1: 12644 keys, 2169560 bytes
+2025/05/19-17:37:02.312 4621f Generated table #582@1: 12967 keys, 2195414 bytes
+2025/05/19-17:37:02.387 4621f Generated table #583@1: 30336 keys, 2261683 bytes
+2025/05/19-17:37:02.426 4621f Generated table #584@1: 31721 keys, 2173120 bytes
+2025/05/19-17:37:02.481 4621f Generated table #585@1: 81588 keys, 1801561 bytes
+2025/05/19-17:37:02.481 4621f Compacted 1@1 + 8@2 files => 17345854 bytes
+2025/05/19-17:37:02.483 4621f compacted to: files[ 0 0 8 0 0 0 0 ]
+2025/05/19-17:37:08.719 46220 Level-0 table #587: started
+2025/05/19-17:37:08.751 46220 Level-0 table #587: 1329941 bytes OK
+2025/05/19-17:37:08.753 46220 Delete type=2 #568
+2025/05/19-17:37:08.753 46220 Delete type=2 #574
+2025/05/19-17:37:08.753 46220 Delete type=2 #577
+2025/05/19-17:37:08.753 46220 Delete type=2 #570
+2025/05/19-17:37:08.753 46220 Delete type=2 #575
+2025/05/19-17:37:08.753 46220 Delete type=0 #576
+2025/05/19-17:37:08.753 46220 Delete type=2 #571
+2025/05/19-17:37:08.753 46220 Delete type=2 #572
+2025/05/19-17:37:08.753 46220 Delete type=2 #569
+2025/05/19-17:37:08.753 46220 Delete type=2 #573
+2025/05/19-17:37:10.245 4621f Compacting 1@1 + 8@2 files
+2025/05/19-17:37:10.299 4621f Generated table #588@1: 75752 keys, 2221881 bytes
+2025/05/19-17:37:10.360 4621f Generated table #589@1: 97964 keys, 2250479 bytes
+2025/05/19-17:37:10.409 4621f Generated table #590@1: 92494 keys, 2273240 bytes
+2025/05/19-17:37:10.442 4621f Generated table #591@1: 13525 keys, 2170226 bytes
+2025/05/19-17:37:10.477 4621f Generated table #592@1: 11357 keys, 2188388 bytes
+2025/05/19-17:37:10.525 4621f Generated table #593@1: 30021 keys, 2258591 bytes
+2025/05/19-17:37:10.562 4621f Generated table #594@1: 26109 keys, 2179050 bytes
+2025/05/19-17:37:10.611 4621f Generated table #595@1: 90304 keys, 1995923 bytes
+2025/05/19-17:37:10.611 4621f Compacted 1@1 + 8@2 files => 17537778 bytes
+2025/05/19-17:37:10.613 4621f compacted to: files[ 0 0 8 0 0 0 0 ]
+2025/05/19-17:37:10.613 4621f Delete type=2 #584
+2025/05/19-17:37:10.613 4621f Delete type=2 #579
+2025/05/19-17:37:10.613 4621f Delete type=2 #583
+2025/05/19-17:37:10.613 4621f Delete type=2 #578
+2025/05/19-17:37:10.613 4621f Delete type=2 #587
+2025/05/19-17:37:10.613 4621f Delete type=2 #582
+2025/05/19-17:37:10.613 4621f Delete type=2 #581
+2025/05/19-17:37:10.613 4621f Delete type=2 #585
+2025/05/19-17:37:10.613 4621f Delete type=2 #580
+2025/05/19-17:58:41.895 46220 Level-0 table #597: started
+2025/05/19-17:58:41.949 46220 Level-0 table #597: 1360459 bytes OK
+2025/05/19-17:58:41.952 46220 Delete type=0 #586
+2025/05/19-18:06:16.896 46220 Compacting 1@1 + 8@2 files
+2025/05/19-18:06:16.942 46220 Generated table #598@1: 75584 keys, 2222301 bytes
+2025/05/19-18:06:16.970 46220 Generated table #599@1: 97846 keys, 2249845 bytes
+2025/05/19-18:06:17.000 46220 Generated table #600@1: 93855 keys, 2280194 bytes
+2025/05/19-18:06:17.016 46220 Generated table #601@1: 14696 keys, 2169762 bytes
+2025/05/19-18:06:17.030 46220 Generated table #602@1: 10311 keys, 2182072 bytes
+2025/05/19-18:06:17.057 46220 Generated table #603@1: 29860 keys, 2261909 bytes
+2025/05/19-18:06:17.074 46220 Generated table #604@1: 20798 keys, 2175327 bytes
+2025/05/19-18:06:17.107 46220 Generated table #605@1: 97635 keys, 2154892 bytes
+2025/05/19-18:06:17.107 46220 Compacted 1@1 + 8@2 files => 17696302 bytes
+2025/05/19-18:06:17.109 46220 compacted to: files[ 0 0 8 0 0 0 0 ]
+2025/05/19-18:06:17.109 46220 Delete type=2 #588
+2025/05/19-18:06:17.109 46220 Delete type=2 #597
+2025/05/19-18:06:17.109 46220 Delete type=2 #594
+2025/05/19-18:06:17.110 46220 Delete type=2 #595
+2025/05/19-18:06:17.110 46220 Delete type=2 #589
+2025/05/19-18:06:17.110 46220 Delete type=2 #593
+2025/05/19-18:06:17.110 46220 Delete type=2 #590
+2025/05/19-18:06:17.110 46220 Delete type=2 #592
+2025/05/19-18:06:17.110 46220 Delete type=2 #591

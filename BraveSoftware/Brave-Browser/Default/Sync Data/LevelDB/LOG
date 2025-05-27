@@ -1,6 +1,18 @@
-2025/05/19-15:07:35.537 292be Reusing MANIFEST /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
-2025/05/19-15:07:35.541 292be Recovering log #109
-2025/05/19-15:07:35.543 292be Reusing old log /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000109.log 
-2025/05/19-15:57:19.778 292bf Level-0 table #113: started
-2025/05/19-15:57:19.798 292bf Level-0 table #113: 55608 bytes OK
-2025/05/19-15:57:19.801 292bf Delete type=0 #109
+2025/05/27-02:35:53.596 5ba Reusing MANIFEST /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/05/27-02:35:53.610 5ba Recovering log #153
+2025/05/27-02:35:53.615 5ba Reusing old log /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000153.log 
+2025/05/27-08:11:19.034 5bc Level-0 table #157: started
+2025/05/27-08:11:19.040 5bc Level-0 table #157: 55978 bytes OK
+2025/05/27-08:11:19.042 5bc Delete type=0 #153
+2025/05/27-16:13:19.440 5ba Level-0 table #159: started
+2025/05/27-16:13:19.459 5ba Level-0 table #159: 55145 bytes OK
+2025/05/27-16:13:19.462 5ba Delete type=0 #156
+2025/05/27-16:13:19.463 5ba Compacting 4@0 + 1@1 files
+2025/05/27-16:13:19.469 5ba Generated table #160@0: 6 keys, 1650 bytes
+2025/05/27-16:13:19.469 5ba Compacted 4@0 + 1@1 files => 1650 bytes
+2025/05/27-16:13:19.471 5ba compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/27-16:13:19.472 5ba Delete type=2 #159
+2025/05/27-16:13:19.472 5ba Delete type=2 #149
+2025/05/27-16:13:19.472 5ba Delete type=2 #157
+2025/05/27-16:13:19.472 5ba Delete type=2 #152
+2025/05/27-16:13:19.472 5ba Delete type=2 #154

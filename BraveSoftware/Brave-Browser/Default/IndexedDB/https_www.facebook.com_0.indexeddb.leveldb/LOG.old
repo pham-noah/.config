@@ -1,3 +1,20 @@
-2025/05/05-15:06:09.965 4f9 Reusing MANIFEST /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/05/05-15:06:09.965 4f9 Recovering log #140
-2025/05/05-15:06:09.979 4f9 Reusing old log /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000140.log 
+2025/05/20-13:55:38.421 6d87 Reusing MANIFEST /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/20-13:55:38.421 6d87 Recovering log #176
+2025/05/20-13:55:38.452 6d87 Reusing old log /home/noahthebonner/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000176.log 
+2025/05/20-14:36:20.113 6d88 Level-0 table #185: started
+2025/05/20-14:36:20.181 6d88 Level-0 table #185: 1707540 bytes OK
+2025/05/20-14:36:20.185 6d88 Delete type=0 #176
+2025/05/20-14:36:20.349 6d89 Compacting 1@1 + 5@2 files
+2025/05/20-14:36:20.394 6d89 Generated table #186@1: 56198 keys, 2195805 bytes
+2025/05/20-14:36:20.424 6d89 Generated table #187@1: 77941 keys, 2223595 bytes
+2025/05/20-14:36:20.438 6d89 Generated table #188@1: 22012 keys, 2174805 bytes
+2025/05/20-14:36:20.450 6d89 Generated table #189@1: 4416 keys, 2142565 bytes
+2025/05/20-14:36:20.461 6d89 Generated table #190@1: 12415 keys, 690881 bytes
+2025/05/20-14:36:20.461 6d89 Compacted 1@1 + 5@2 files => 9427651 bytes
+2025/05/20-14:36:20.463 6d89 compacted to: files[ 0 0 5 0 0 0 0 ]
+2025/05/20-14:36:20.463 6d89 Delete type=2 #180
+2025/05/20-14:36:20.463 6d89 Delete type=2 #181
+2025/05/20-14:36:20.463 6d89 Delete type=2 #178
+2025/05/20-14:36:20.463 6d89 Delete type=2 #179
+2025/05/20-14:36:20.463 6d89 Delete type=2 #182
+2025/05/20-14:36:20.463 6d89 Delete type=2 #185
